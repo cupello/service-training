@@ -1,3 +1,8 @@
+**Changes have been made to the Service repo since the recording of this material.
+To see the repo in the original form, please use this link.**
+
+https://github.com/ardanlabs/service/tree/32c75246b11b871ca7aaf07eebb2b1ccef6ee81c
+
 # service-training
 
 This project is the training material for the [`service`][service] repo broken
