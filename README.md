@@ -68,11 +68,12 @@ command to define a git alias called `dirdiff`:
 git config --global alias.dirdiff 'diff -p --stat -w --no-index'
 ```
 
-With that alias in place, run this command from the top level folder to see the
+With that alias in place, run this command from the training folder created previously to see the
 differences between the `01-startup` directory and the `02-shutdown` directory.
 
 ```sh
-git dirdiff 01-startup 02-shutdown`
+cd ~/training
+git dirdiff service-training/01-startup/ service-training/02-shutdown/
 ```
 
 ---
