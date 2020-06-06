@@ -75,6 +75,9 @@ func main() {
 }
 
 // Echo is a basic HTTP Handler.
+// If you open localhost:8000 in your browser, you may notice
+// double requets being made. This happens because the browser
+// sends a request in the background for a website favicon.
 func Echo(w http.ResponseWriter, r *http.Request) {
 
 	// Print a random number at the beginning and end of each request.
