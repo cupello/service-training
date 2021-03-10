@@ -1,3 +1,8 @@
+# NO LONGER VALID FOR TRAINING
+
+This repo has been replaced with the Service repo. We will be deprecating this
+repo soon. Please do not review any code in this repo.
+
 **Changes have been made to the Service repo since the recording of this material.
 To see the repo in the original form, please use this link.**
 
